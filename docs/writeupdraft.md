@@ -3,7 +3,7 @@
 
 ### Abstract
 ### Introduction
-    We were tasked with creating a machine learning algorithm to classify and predict the music genre of unlabeled audio clips. In this day and age, with the massive amount of music coming out and music data currently available, music style and genres are key ways to classify the music. They are the primary modes used to group music together and search for specific types of music. They take into account different features such as rhythm, melody and harmony. And with the vast amount of music data, it is no longer feasible to manually classify all the music that exists. With the rapid development of neural networks it is important to explore this to see how it can assist in automated music classification. 
+We were tasked with creating a machine learning algorithm to classify and predict the music genre of unlabeled audio clips. In this day and age, with the massive amount of music coming out and music data currently available, music style and genres are key ways to classify the music. They are the primary modes used to group music together and search for specific types of music. They take into account different features such as rhythm, melody and harmony. And with the vast amount of music data, it is no longer feasible to manually classify all the music that exists. With the rapid development of neural networks it is important to explore this to see how it can assist in automated music classification. 
 
   
 
