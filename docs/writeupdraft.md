@@ -2,6 +2,7 @@
 ## Mohamed Akash, Grace Leverett, Amritha Venigalla
 
 ### Abstract
+Traditional music style classification methods use many acoustic characteristics to label music with specific genres and styles. The design of characteristics necessitates musical knowledge and the characteristics of different classification tasks are not always consistent. The rapid development of neural networks and big data technology has provided a new way to better solve the problem of music-style classification, and it is important that we explore it in depth to have more efficient classification methods. 
 ### Introduction
 We were tasked with creating a machine learning algorithm to classify and predict the music genre of unlabeled audio clips. In this day and age, with the massive amount of music coming out and music data currently available, music style and genres are key ways to classify the music. They are the primary modes used to group music together and search for specific types of music. They take into account different features such as rhythm, melody and harmony. And with the vast amount of music data, it is no longer feasible to manually classify all the music that exists. With the rapid development of neural networks it is important to explore this to see how it can assist in automated music classification. 
 
